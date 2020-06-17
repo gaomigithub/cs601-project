@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <link rel="shortcut icon" href="" />
+    <link rel="shortcut icon" href="#" />
     <!-- Global CSS -->
     <link
       rel="stylesheet"
@@ -33,7 +33,7 @@
       <header class="header">
         <div class="top-bar container-fluid">
           <div class="actions">
-            <a class="btn hidden-xs" @click="changeLanguage"
+            <a class="btn hidden-xs" v-on:click="changeLanguage"
               ><i class="fa fa-language" aria-hidden="true"></i>
               {{language}}
             </a>
@@ -166,6 +166,8 @@
                     <div
                       class="chart-theme-1 chart"
                       :data-percent="topSkill.percent"
+                      barColor="#ffb400"
+                      data-scale-color="#ffb400"
                     >
                       <span>{{topSkill.percent}}</span>%
                     </div>
@@ -398,7 +400,7 @@
     <!-- Javascript -->
     <script
       type="text/javascript"
-      src="assets/plugins/jquery-1.12.4.min.js"
+      src="assets/plugins/jquery-3.5.1.min.js"
     ></script>
     <script
       type="text/javascript"

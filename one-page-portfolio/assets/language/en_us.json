@@ -42,7 +42,7 @@ en_us({
         "name": "Community Web Application",
         "location": "Boston, MA",
         "title": "Software Engineering",
-        "industry": "Software/Service Taijivider",
+        "industry": "Software/Service",
         "time": "2020.1 — 2020.5",
         "env": "React, NodeJS, AWS, DynamoDB, Github, Google Cloud Platform",
         "desc": "This will be the first application for Boston residents’ communities which mainly are dog owners.",
@@ -56,7 +56,7 @@ en_us({
         "time": "2020.1 — 2020.5",
         "env": "PostgreSQL, pgAdmain V4, AWS",
         "desc": "Backend database system for the application which generated features of food ordering and delivery service for customers and restaurants.",
-        "responsibility": "Designed the structure of the database. Organized and implemented operations in pgAdmain V4. Implemented practical triggers with functions which can Interact multiple tables to update information dynamically. Wrote essential documents for logical and physical design documents, performance test plan, and test reports."
+        "responsibility": "Designed the structure of the database. Organized and implemented operations in pgAdmain V4. Implemented practical triggers with functions which can Interact multiple tables to update information dynamically. Wrote essential documents for logical and physical design documents, performance test plan, and test reports. Prepared logical and physical design documents, performance test plans and test reports. Carry out research and analysis of related products, collaborate with team members to complete preliminary demand surveys, form and lead product R&D teams to complete system R&D, arrange project development plans, control system development progress, coordinate product, development, and test teams for efficient jobs."
       }
     ]
   },
@@ -84,7 +84,7 @@ en_us({
     "topSkills": [
       {
         "name": "Java",
-        "percent": "98",
+        "percent": "95",
         "level": "Expert, 3+ years",
         "time": "2014 - Present",
         "desc": "desc here."
@@ -98,7 +98,7 @@ en_us({
       },
       {
         "name": "Python",
-        "percent": "90",
+        "percent": "70",
         "level": "Expert, 1+ years",
         "time": "2018 - Present",
         "desc": "desc here."
@@ -148,7 +148,7 @@ en_us({
         "title": "Portfolio",
         "category": "frontend",
         "technique": "Vue.js",
-        "desc": "Help designer and programmer build a brilliant online resume.",
+        "desc": "Online resume.",
         "url": "https://github.com/gaomigithub/cs601-project"
       },
       {
@@ -179,7 +179,7 @@ en_us({
   },
   "contact": {
     "navTitle": "Contact",
-    "sectionTitle": "Get in Touch",
+    "sectionTitle": "Contact Me",
     "notice": "Welcome to my home page. I am studying and living in Boston and often to be bussy with studies. If you have any meets or questions, please touch me with the following ways.",
     "message": "Drop me a line at",
     "call": " or call me at",
