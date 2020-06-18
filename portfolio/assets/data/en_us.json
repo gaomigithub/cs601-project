@@ -85,22 +85,22 @@ en_us({
       {
         "name": "Java",
         "percent": "95",
-        "level": "Expert, 3+ years",
-        "time": "2014 - Present",
+        "level": "Expert, 4+ years",
+        "time": "2015 - Present",
         "desc": "desc here."
       },
       {
         "name": "Javascript",
         "percent": "90",
-        "level": "Expert, 1+ years",
+        "level": "Expert, 2+ years",
         "time": "2018 - Present",
         "desc": "desc here."
       },
       {
         "name": "Python",
         "percent": "70",
-        "level": "Expert, 1+ years",
-        "time": "2018 - Present",
+        "level": "Junior, 1+ years",
+        "time": "2019 - Present",
         "desc": "desc here."
       }
     ],

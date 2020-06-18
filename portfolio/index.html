@@ -24,7 +24,7 @@
       rel="stylesheet"
       href="assets/plugins/font-awesome/css/font-awesome.css"
     />
-    <!-- Theme CSS -->
+    <!-- Custom Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css" />
   </head>
 
@@ -174,7 +174,7 @@
                   </div>
                   <h4 class="skill-name">{{topSkill.name}}</h4>
                   <div class="level">{{topSkill.level}}</div>
-                  <!--<div class="desc">{{topSkill.desc}}</div>-->
+                  <!-- <div class="desc">{{topSkill.desc}}</div> -->
                 </div>
                 <!--//item-inner-->
               </div>
@@ -191,7 +191,7 @@
                 >{{otherSkill.name}}</span
               >
             </div>
-		  </div> -->
+          </div> -->
 
           <!--//other-skills-->
           <div class="skill-items">
@@ -427,59 +427,13 @@
 
     <!-- custom js -->
     <script type="text/javascript" src="assets/js/main.js"></script>
+    <script
+      type="text/javascript"
+      src="assets/js/language_switcher.js"
+    ></script>
 
-    <script type="text/javascript">
-      function en_us(data) {
-        window.localStorage.setItem("en_us", JSON.stringify(data));
-      }
-      function zh_cn(data) {
-        window.localStorage.setItem("zh_cn", JSON.stringify(data));
-        var vm = new Vue({
-          name: "resume",
-          el: "#container",
-          data: {
-            lang: "zh_cn",
-            language: null,
-            basicInfo: null,
-            experiences: null,
-            projects: null,
-            education: null,
-            skills: null,
-            portfolio: null,
-            contact: null,
-          },
-          methods: {
-            changeLanguage: function () {
-              var zh_cn = "zh_cn";
-              var en_us = "en_us";
-              if (this.lang == zh_cn) {
-                this.lang = en_us;
-                this.language = "Chinese";
-              } else {
-                this.lang = zh_cn;
-                this.language = "English";
-              }
-              var data = window.localStorage.getItem(this.lang);
-              if (data != null) {
-                data = JSON.parse(data);
-                this.basicInfo = data.basicInfo;
-                this.experiences = data.experiences;
-                this.projects = data.projects;
-                this.education = data.education;
-                this.skills = data.skills;
-                this.portfolio = data.portfolio;
-                this.contact = data.contact;
-              }
-            },
-          },
-          mounted: function () {
-            this.changeLanguage();
-          },
-        });
-      }
-    </script>
-
-    <script src="assets/language/en_us.json"></script>
-    <script src="assets/language/zh_cn.json"></script>
+    <!-- JSON data -->
+    <script src="assets/data/en_us.json"></script>
+    <script src="assets/data/zh_cn.json"></script>
   </body>
 </html>

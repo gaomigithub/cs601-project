@@ -34,7 +34,7 @@ $(document).ready(function () {
   $(".chart").easyPieChart({
     barColor: function (percent) {
       return percent < 80 ? "#4ef0eb" : percent < 95 ? "#7ff04e" : "#ff9800";
-    }, //Pie chart colour
+    }, // chart colour
     trackColor: "#e8e8e8",
     scaleColor: false,
     lineWidth: 5,

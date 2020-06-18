@@ -85,22 +85,22 @@ zh_cn({
       {
         "name": "Java",
         "percent": "95",
-        "level": "Expert, 8+ years",
-        "time": "2016 - Present",
+        "level": "专业",
+        "time": "2015 - 现在",
         "desc": "desc here."
       },
       {
-        "name": "Spring Boot",
+        "name": "Javascript",
         "percent": "90",
-        "level": "Expert, 5+ years",
-        "time": "2016 - Present",
+        "level": "中级",
+        "time": "2018 - 现在",
         "desc": "desc here."
       },
       {
-        "name": "Spring Cloud",
+        "name": "Python",
         "percent": "70",
-        "level": "Expert, 3+ years",
-        "time": "2016 - Present",
+        "level": "初级",
+        "time": "2019 - 现在",
         "desc": "desc here."
       }
     ],
