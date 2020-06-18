@@ -22,6 +22,14 @@ zh_cn({
         "jobDesc": "重建和维护公司的网站系统和服务器；为消费者企业部署产品（yonyou U8 +和NC）和SQL数据库以及服务器；维护公司微信公众平台。"
       },
       {
+        "place": "东西文化交流协会",
+        "location": "远程工作",
+        "title": "技术支持",
+        "industry": "文化/交流",
+        "time": "2018.3 – 2019.2",
+        "jobDesc": "为组织主页设计了基于WordPress的新特性和功能。 在Google Cloud Compute Engine上设置虚拟机实例以部署WordPress框架并替换了外部IP和域。 编写服务配置以使用SSH远程访问VM； 通过WordPress Admin Dashboard完成网站内容，以降低用户成本； 由PhpMyAdmin执行后端服务，并在MySQL中连接数据。"
+      },
+      {
         "place": "中国学生学者联合会",
         "location": "Mt.Pleasant, MI, US",
         "title": "信息部部长",
@@ -57,6 +65,16 @@ zh_cn({
         "env": "PostgreSQL，pgAdmain V4，AWS",
         "desc": "该应用程序的后端数据库系统，生成了用于客户和饭店的食品订购和交付服务的功能。",
         "responsibility": "设计了数据库的结构。在pgAdmain V4中组织和实施了操作。实施了具有功能的实用触发器，该功能可以与多个表进行交互以动态更新信息。编写了逻辑和物理设计文档，性能测试计划以及 测试报告。进行相关产品的研究与分析，协同组员完成前期需求调研，组建和带领产品研发团队完成系统的研发，安排项目开发计划，把控系统的开发进度，协调产品、开发、测试各团队进行高效的工作。"
+      },
+      {
+        "name": "Horror Survival Game",
+        "location": "Mt.Pleasant，密歇根州",
+        "title": "现代视觉设计",
+        "industry": "视频游戏",
+        "time": "2017.1 - 2017.5",
+        "env": "Unity 3D, C#",
+        "desc": "第一人称视角恐怖逃生游戏设计项目",
+        "responsibility": "构建的真实游戏环境包括基于Mapbox SDK的海洋，陆地表面和建筑物以及基于UnityEngine的Low Poly Free Pack。以C＃脚本切换场景管理器已实现的多个场景； 在Skybox中为每个场景编辑了独特的环境渲染，以减少重复的视觉场景并获得更好的玩家体验。通过基于Unity3D内置触发器和MonoBehaviour向GameObject提供动作和模型，建立了生动的互动体验，例如对象的动画和玩家的动作。"
       }
     ]
   },

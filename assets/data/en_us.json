@@ -16,10 +16,18 @@ en_us({
       {
         "place": "Tianjin Yongtai Science & Technology Development Co.,Ltd",
         "location": "Tianjin, China",
-        "title": "Technical Consultant Intern.",
+        "title": "Tech Consultant Intern.",
         "industry": "Software/Service Taijivider",
         "time": "Mar 2019 – Jun 2019",
         "jobDesc": "Rebuilt and maintained the website system and the server in the company; Deployed the ERP products(yonyou U8+ and NC), SQL server and Compute Service for consumers' enterprise; Provided remote/local technical support to customers; Maintained WeChat Public Platform for the company"
+      },
+      {
+        "place": "The W.E. Cultural Exchange Inst.",
+        "location": "Remote",
+        "title": "Tech Consultant Volunteer",
+        "industry": "Culture/Communication",
+        "time": "Mar 2018 – Feb 2019",
+        "jobDesc": "Designed and performed new features and functionality operated WordPress in the front end. Set up Virtual Machine instances at Google Cloud Compute Engine to deploy WordPress framework and replaced the external IP and Domains. Wrote Services Configurations to remotely access the VM using SSH; accomplished the website content by WordPress Admin Dashboard to decrease the cost for users; executed the backend service by PhpMyAdmin and connect the data in MySQL."
       },
       {
         "place": "Chinese Students and Scholars Association",
@@ -57,6 +65,16 @@ en_us({
         "env": "PostgreSQL, pgAdmain V4, AWS",
         "desc": "Backend database system for the application which generated features of food ordering and delivery service for customers and restaurants.",
         "responsibility": "Designed the structure of the database. Organized and implemented operations in pgAdmain V4. Implemented practical triggers with functions which can Interact multiple tables to update information dynamically. Wrote essential documents for logical and physical design documents, performance test plan, and test reports. Prepared logical and physical design documents, performance test plans and test reports. Carry out research and analysis of related products, collaborate with team members to complete preliminary demand surveys, form and lead product R&D teams to complete system R&D, arrange project development plans, control system development progress, coordinate product, development, and test teams for efficient jobs."
+      },
+      {
+        "name": "Horror Survival Game",
+        "location": "Mt.Pleasant, MI",
+        "title": "Multimedia Designing",
+        "industry": "Software/Gaming",
+        "time": "2017.1 — 2017.5",
+        "env": "Unity 3D, C#",
+        "desc": "First-person perspective game project of Multimedia Designing.",
+        "responsibility": "Constructed realistic gaming environment includes oceans, land surfaces, and buildings based on Mapbox SDK and Low Poly Free Pack based on UnityEngine. Implemented multiple scenes were switched by Scene Manager in C# scripts; edited unique moods for each scenes in Skybox to cut down repetitive visual scenes and to achieve greater player experience. Established vivid interactive experience such as objects’ animations and player’s actions by providing actions and models to the GameObject based on Unity3D built-in triggers and MonoBehaviour."
       }
     ]
   },
