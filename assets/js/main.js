@@ -13,7 +13,6 @@ $(document).ready(function () {
   });
 
   /* ======= Fixed page nav when scrolled ======= */
-
   $(window).on("scroll resize load", function () {
     $("#page-nav-wrapper").removeClass("fixed");
 
@@ -30,11 +29,11 @@ $(document).ready(function () {
   });
 
   /* ======= Chart ========= */
-
   $(".chart").easyPieChart({
+    // chart colour
     barColor: function (percent) {
       return percent < 80 ? "#4ef0eb" : percent < 95 ? "#7ff04e" : "#ff9800";
-    }, // chart colour
+    },
     trackColor: "#e8e8e8",
     scaleColor: false,
     lineWidth: 5,

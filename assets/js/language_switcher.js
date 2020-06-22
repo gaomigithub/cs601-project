@@ -5,7 +5,7 @@ function zh_cn(data) {
   window.localStorage.setItem("zh_cn", JSON.stringify(data));
   var vm = new Vue({
     name: "resume",
-    el: "#container",
+    el: "#app",
     data: {
       lang: "zh_cn",
       language: null,
