@@ -14,6 +14,14 @@ en_us({
     "sectionTitle": "Experiences",
     "workExperiences": [
       {
+        "place": "Boston University Information Services & Technology",
+        "location": "Boston, MA",
+        "title": "Classroom Moderator",
+        "industry": "IT/Support",
+        "time": "Aug 2020 – Present",
+        "jobDesc": "Supported Boston University’s Learn from Anywhere (LfA) initiative. Provided remote technical support to facilitating teaching and learning in a hybrid, remote and in-person, environment."
+      },
+      {
         "place": "Tianjin Yongtai Science & Technology Development Co.,Ltd",
         "location": "Tianjin, China",
         "title": "Tech Consultant Intern.",
