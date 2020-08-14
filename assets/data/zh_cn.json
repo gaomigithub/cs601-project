@@ -14,6 +14,14 @@ zh_cn({
     "sectionTitle": "工作经验",
     "workExperiences": [
       {
+        "place": "波士顿大学科技服务中心",
+        "location": "Boston, MA, US",
+        "title": "远程课堂主持",
+        "industry": "计算机软件/服务供应商",
+        "time": "2020.8 - 现在",
+        "jobDesc": "应对COVID-19疫情，技术支持波士顿大学的“从任何地方学习”（LfA）计划。 提供远程技术支持，以促进在混合，远程和面对面的环境中进行教学。"
+      },
+      {
         "place": "天津市永泰科技发展有限公司",
         "location": "天津",
         "title": "技术顾问实习",
