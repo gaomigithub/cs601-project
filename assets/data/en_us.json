@@ -110,14 +110,14 @@ en_us({
     "topSkills": [
       {
         "name": "Java",
-        "percent": "95",
-        "level": "Expert, 4+ years",
+        "percent": "90",
+        "level": "Expert, 3+ years",
         "time": "2015 - Present",
         "desc": "desc here."
       },
       {
         "name": "Javascript",
-        "percent": "90",
+        "percent": "85",
         "level": "Expert, 2+ years",
         "time": "2018 - Present",
         "desc": "desc here."
@@ -125,7 +125,7 @@ en_us({
       {
         "name": "Python",
         "percent": "70",
-        "level": "Junior, 1+ years",
+        "level": "Junior, 1 year",
         "time": "2019 - Present",
         "desc": "desc here."
       }
