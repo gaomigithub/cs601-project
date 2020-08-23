@@ -110,14 +110,14 @@ zh_cn({
     "topSkills": [
       {
         "name": "Java",
-        "percent": "95",
+        "percent": "90",
         "level": "专业",
         "time": "2015 - 现在",
         "desc": "desc here."
       },
       {
         "name": "Javascript",
-        "percent": "90",
+        "percent": "85",
         "level": "中级",
         "time": "2018 - 现在",
         "desc": "desc here."
