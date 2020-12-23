@@ -1,10 +1,10 @@
 en_us({
   "basicInfo": {
     "name": "Mi Gao",
-    "title": "Full-Stack Developer",
-    "profileInfo": "I am currently studying in BU for a master's degree in CS, fall 2019; I am going to seek any chance of internship with such junior-level SDE and related positions for more challenges and knowledge. I am currently taking courses in ML and CLOUD. Hoping you have a nice day!",
+    "title": "Frontend Developer",
+    "profileInfo": "Hello world! I am currently studying in BU for a master's degree in CS, fall 2019; I am going to seek any chance of internship with such junior-level SDE and related positions for more challenges and knowledge. I am currently working on Frontend part and taking courses in ML and CLOUD. Hoping you have a nice day!",
     "email": "migao9401@gmail.com",
-    "mobile": "8573171037",
+    "mobile": "+86 15619875105",
     "website": "https://github.com/gaomigithub",
     "authorTitle": "Author",
     "authorValue": "Mi Gao"
@@ -14,11 +14,19 @@ en_us({
     "sectionTitle": "Experiences",
     "workExperiences": [
       {
+        "place": "Encoo Co.,Ltd, Shanghai",
+        "location": "Shanghai, China",
+        "title": "Frontend intern.",
+        "industry": "IT/AI",
+        "time": "Oct 2020 - Present",
+        "jobDesc": "Designed and developed the Web App test/production version of the OCR text recognition product for the AI team, and provided the back-end development team and users with an intuitive output content effect display. Use Azure Repos for version control through Git; antd and ajax design and realize the image upload interface and data interaction; Konva and Cropper.js realize the visualization/interaction of the recognition detection area."
+      },
+      {
         "place": "Boston University Information Services & Technology",
         "location": "Boston, MA",
         "title": "Classroom Moderator",
         "industry": "IT/Support",
-        "time": "Aug 2020 – Present",
+        "time": "Aug 2020 – Oct 2020",
         "jobDesc": "Supported Boston University's Learn from Anywhere (LfA) initiative. Provided remote technical support to facilitating teaching and learning in a hybrid, remote and in-person, environment."
       },
       {
