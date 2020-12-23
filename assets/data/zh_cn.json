@@ -1,10 +1,10 @@
 zh_cn({
   "basicInfo": {
     "name": "高弥",
-    "title": "全栈开发者",
-    "profileInfo": "我目前正在BU学习2019年秋季的CS硕士学位; 我将寻求在这样的初级SDE和相关职位实习的机会，以获取更多挑战和知识。 我目前正在学习ML和CLOUD课程。 希望你有美好的一天！",
+    "title": "前端开发者",
+    "profileInfo": "Hello world! 我目前正在BU学习2019年秋季的CS硕士学位; 我将寻求在这样的初级SDE和相关职位实习的机会，以获取更多挑战和知识。 我目前正在致力于前端、ML和数据库的学习。希望有一天能成为你们的一员！",
     "email": "migao9401@gmail.com",
-    "mobile": "8573171037",
+    "mobile": "15619875105",
     "website": "https://github.com/gaomigithub",
     "authorTitle": "作者",
     "authorValue": "高弥"
@@ -14,11 +14,19 @@ zh_cn({
     "sectionTitle": "工作经验",
     "workExperiences": [
       {
+        "place": "上海云扩信息科技有限公司",
+        "location": "上海",
+        "title": "前端实习生",
+        "industry": "计算机科技/AI",
+        "time": "2020.10 - 现在",
+        "jobDesc": "为AI算法组设计并开发了OCR文字识别产品的Web App测试/生产版本，为后端开发团队和用户提供直观的输出内容效果展示。使用Azure Repos通过Git进行版本控制；antd与ajax设计和实现图像上传界面与数据交互；Konva与Cropper.js实现对识别检测区域的可视化/交互。"
+      },
+      {
         "place": "波士顿大学科技服务中心",
         "location": "Boston, MA, US",
         "title": "远程课堂主持",
         "industry": "计算机软件/服务供应商",
-        "time": "2020.8 - 现在",
+        "time": "2020.8 - 2020.10",
         "jobDesc": "应对COVID-19疫情，技术支持波士顿大学的“从任何地方学习”（LfA）计划。 提供远程技术支持，以促进在混合，远程和面对面的环境中进行教学。"
       },
       {
